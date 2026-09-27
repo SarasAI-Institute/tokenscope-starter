@@ -1,0 +1,41 @@
+{
+  "files": [
+    {
+      "path": "notes.txt",
+      "characters": 30,
+      "estimated_tokens": 8
+    },
+    {
+      "path": "src/greet.py",
+      "characters": 15,
+      "estimated_tokens": 4
+    },
+    {
+      "path": "unicode.txt",
+      "characters": 8,
+      "estimated_tokens": 2
+    },
+    {
+      "path": "empty.txt",
+      "characters": 0,
+      "estimated_tokens": 0
+    }
+  ],
+  "skipped": [
+    {
+      "path": "binary.dat",
+      "reason": "binary"
+    },
+    {
+      "path": "invalid-utf8.dat",
+      "reason": "binary"
+    }
+  ],
+  "summary": {
+    "files_scanned": 4,
+    "files_shown": 4,
+    "total_characters": 53,
+    "total_estimated_tokens": 14,
+    "entries_skipped": 2
+  }
+}

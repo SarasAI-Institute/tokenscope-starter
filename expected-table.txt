@@ -1,0 +1,9 @@
+TOKENS	CHARACTERS	PATH
+8	30	"notes.txt"
+4	15	"src/greet.py"
+2	8	"unicode.txt"
+0	0	"empty.txt"
+
+Files: 4 | Shown: 4 | Characters: 53 | Estimated tokens: 14 | Skipped: 2
+SKIP	binary	"binary.dat"
+SKIP	binary	"invalid-utf8.dat"
